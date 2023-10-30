@@ -1,3 +1,5 @@
+#SCRATCH!
+
 #BIOE215 Data Science 
 # 10/23/2023
 #Lesson 4 - Functions
